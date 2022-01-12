@@ -1,6 +1,6 @@
 # Работы по алгоритмам и структурам данных.
 <p><em>Это репозиторий с работами выполненные в ходе изучения алгоритмов и структур данных.</em></p>  
-<img src="https://github.com/levon-avackimyanc/AaDS/blob/main/file.gif" width="150" height="150" />
+<img src="https://github.com/levon-avackimyanc/AaDS/blob/master/file.gif" width="150" height="150" />
 <b>Первый модуль:</b>
 <ol>
 <em>
